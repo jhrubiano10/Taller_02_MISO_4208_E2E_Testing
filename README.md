@@ -10,3 +10,11 @@ En el presente repositorio se encuentra el desarrollo de las pruebas realizadas 
 * Nightwatch.js
 
 Cada una de las carpetas contienen los scripts desarollados.
+
+### Autor
+* Jorge Rubaino [@ostjh]
+* Código: 201510711
+
+License
+----
+MIT
