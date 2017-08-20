@@ -1,28 +1,31 @@
-# TourOfHeroes
+# Taller 02 MISO-4208 E2E Testing - PROACTOR.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
+Las pruebas se encuentran dentro de la carpeta [e2e] como son:
 
-## Development server
+* [Buscar Héroes]
+* [Eliminar un heroe]
+* [Editar un héroe]
+* [Navegar a un héroe desde el dashboard]
+* [Navegar a un héroe desde la lista de héroes]
+* [Navegar a un héroe desde la búsqueda]
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![proactor](https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/blob/master/images/proactor.gif?raw=true)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+### Autor
+* Jorge Rubaino [@ostjh]
+* Código: 201510711
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+License
+----
+MIT
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+[@ostjh]:https://twitter.com/ostjh
+[e2e]:https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/tree/master/proactor/e2e
+[Buscar Héroes]:https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/blob/master/proactor/e2e/app.e2e-spec.ts#L10
+[Eliminar un heroe]:https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/blob/master/proactor/e2e/app.e2e-spec.ts#L83
+[Editar un héroe]:https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/blob/master/proactor/e2e/app.e2e-spec.ts#L30
+[Navegar a un héroe desde el dashboard]:https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/blob/master/proactor/e2e/app.e2e-spec.ts#L15
+[Navegar a un héroe desde la lista de héroes]:https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/blob/master/proactor/e2e/app.e2e-spec.ts#L20
+[Navegar a un héroe desde la búsqueda]:https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/blob/master/proactor/e2e/app.e2e-spec.ts#L25
