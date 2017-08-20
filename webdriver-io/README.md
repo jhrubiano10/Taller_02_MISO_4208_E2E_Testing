@@ -2,7 +2,7 @@
 
 Las pruebas se encuentran en el archivo [tests]/[specs] se siguieron los pasos para el despliegue 
 de estas pruebas como se muestra en la [guía] del taller, pero al ejecutar el comando `wdio wdio.conf.js` me indicaba que el 
-patron no concidía con el esperado, intente cambiar el patron en el archivo de configuración, pero siempre sala el mismo error.
+patron no concidía con el esperado, intente cambiar el patron en el archivo de configuración, pero siempre salía el mismo error.
 
 ![error](https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/blob/master/images/webdriver_no_funciona_comando.gif?raw=true)
 
