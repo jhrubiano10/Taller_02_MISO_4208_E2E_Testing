@@ -11,6 +11,9 @@ Las pruebas se encuentran dentro de la carpeta [e2e] como son:
 
 ![proactor](https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/blob/master/images/proactor.gif?raw=true)
 
+### Sin modo headless
+
+![proactor2](https://github.com/jhrubiano10/Taller_02_MISO_4208_E2E_Testing/blob/master/images/video_proactor_navegador.gif?raw=true)
 
 ### Autor
 * Jorge Rubaino [@ostjh]
